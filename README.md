@@ -1,4 +1,5 @@
 # 🐱 Cat Gatekeeper
+<img width="188" height="188" alt="image" src="https://github.com/user-attachments/assets/b0d094ab-1c8a-4c93-8439-a400873f369a" />
 
 **A fun and effective Chrome browser extension that helps you fight procrastination and doomscrolling.**
 
