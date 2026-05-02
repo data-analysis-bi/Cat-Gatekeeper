@@ -3,8 +3,8 @@
 **A fun and effective Chrome browser extension that helps you fight procrastination and doomscrolling.**
 
 When you spend too much time on social media, a giant cute ginger cat appears on your screen and won't let you continue until your break time is over.
+![Cat Gatekeeper Demo]( https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh)
 
-![Cat Gatekeeper Demo] https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh
 
 ## ✨ Features
 
