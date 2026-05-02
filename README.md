@@ -4,7 +4,7 @@
 
 When you spend too much time on social media, a giant cute ginger cat appears on your screen and won't let you continue until your break time is over.
 
-![Cat Gatekeeper Demo](https://github.com/data-analysis-bi/Cat-Gatekeeper/blob/main/assets/neko1.webm)
+![Cat Gatekeeper Demo]https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh
 
 ## ✨ Features
 
@@ -43,3 +43,26 @@ When you spend too much time on social media, a giant cute ginger cat appears on
 - Video overlays (WebM)
 
 ## 📁 Project Structure
+Cat-Gatekeeper/
+├── manifest.json
+├── popup.html          # Settings UI
+├── popup.js
+├── content.js          # Main logic + cat overlay
+├── content.css
+├── _locales/           # Translations
+├── assets/             # Icons and cat videos
+├── LICENSE
+└── README.md
+
+
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+## 🎯 Inspired by
+
+The viral "Cat Gatekeeper" concept — using the irresistible power of cats to help you regain control of your attention.
+
+---
+
+**Made with ❤️ for people who want to scroll less and live more.**
