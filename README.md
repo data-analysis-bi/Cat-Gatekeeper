@@ -10,6 +10,7 @@ Original Idea - konekone2026
 checkout actual extension at : 
  https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh
 
+<img width="1240" height="779" alt="image" src="https://github.com/user-attachments/assets/5df7b26a-a74f-47f1-af37-4cfef8ed0a4e" />
 
 ## ✨ Features
 
